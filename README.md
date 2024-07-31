@@ -1,4 +1,5 @@
 ## Hi there 👋
+🚀 ¡Hola! Soy Mario Pinto, un estudiante de programación en formacion. Tengo conocimientos básicos en C# y Python, y recientemente comencé a aprender HTML y CSS. ¡Gracias por visitar mi perfil!
 
 <!--
 **MarioPin117/MarioPin117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
